@@ -15,6 +15,12 @@ This repository contains the **Frontend Architecture** (Next.js & Tailwind CSS) 
 
 <br/>
 
+<div align="center">
+  <img src="public/dashboard.png" alt="Nexus AOS Executive Dashboard" width="100%">
+</div>
+
+<br/>
+
 ## ✨ Key Features
 
 - **🌐 The Neural Intranet** - A cognitive assistant capable of routing everything from micro-tasks (HR sick leave) to massive strategic ideation.
